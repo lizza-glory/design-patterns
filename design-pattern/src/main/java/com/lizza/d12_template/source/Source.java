@@ -1,12 +1,5 @@
 package com.lizza.d12_template.source;
 
-import org.springframework.context.support.AbstractApplicationContext;
-
-/**
- * @Desc:
- * @author: lizza1643@gmail.com
- * @date: 2020-08-09
- */
 public class Source {
 
     public static void main(String[] args){

@@ -3,8 +3,6 @@ package com.lizza.d11_proxy.cglib_proxy;
 import net.sf.cglib.proxy.Enhancer;
 import net.sf.cglib.proxy.MethodInterceptor;
 import net.sf.cglib.proxy.MethodProxy;
-import org.springframework.util.ObjectUtils;
-
 import java.lang.reflect.Method;
 
 /**
