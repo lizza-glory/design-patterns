@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- *
+ * 被观察者
  */
 public class WeatherData implements Subject {
 
